@@ -15,11 +15,17 @@ The main AnyPlatform CLI tool for creating and managing projects.
 
 **Installation**:
 ```bash
-# Use with npx (recommended)
-npx https://github.com/anyplatform/releases/releases/latest/download/anyplatform-platform-[VERSION].tgz create my-app
+# Use with npx (recommended) - always gets the latest version
+npx https://github.com/anyplatform/releases/releases/latest/download/anyplatform-platform.tgz create my-app
 
 # Or install globally
-npm install -g https://github.com/anyplatform/releases/releases/latest/download/anyplatform-platform-[VERSION].tgz
+npm install -g https://github.com/anyplatform/releases/releases/latest/download/anyplatform-platform.tgz
+```
+
+**Specific version**:
+```bash
+# Use a specific version if needed
+npx https://github.com/anyplatform/releases/releases/download/platform-v0.0.6/anyplatform-platform-0.0.6.tgz create my-app
 ```
 
 ## Release Structure
