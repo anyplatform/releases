@@ -1,14 +1,14 @@
 ---
 title: Platform Console Latest
-date: 2025-08-07T08:00:02Z
+date: 2025-08-07T08:26:33Z
 repository: anyplatform/platform.console
-version: v0.1.5
+version: v0.1.6
 latest: true
 ---
 
 # Platform Console - Latest
 
-**Current Latest Version: v0.1.5**
+**Current Latest Version: v0.1.6**
 
 Released on 2025-08-07
 
@@ -24,7 +24,7 @@ npm run build
 
 ### Using Specific Version
 ```bash
-git clone https://github.com/anyplatform/platform.console.git --branch v0.1.5
+git clone https://github.com/anyplatform/platform.console.git --branch v0.1.6
 cd platform.console
 npm install
 npm run build
@@ -37,19 +37,19 @@ npm run build
 docker pull ghcr.io/anyplatform/platform.console:latest
 
 # Specific version
-docker pull ghcr.io/anyplatform/platform.console:0.1.5
+docker pull ghcr.io/anyplatform/platform.console:0.1.6
 ```
 
 ## Release Notes
 
-See full release notes at: https://github.com/anyplatform/platform.console/releases/tag/v0.1.5
+See full release notes at: https://github.com/anyplatform/platform.console/releases/tag/v0.1.6
 
 ## Packages Included
 
-- @anyplatform/console-mcp@0.1.5
-- @anyplatform/console-web@0.1.5
+- @anyplatform/console-mcp@0.1.6
+- @anyplatform/console-web@0.1.6
 
 ## Recent Releases
 
-- **v0.1.5** (Latest) - 2025-08-07
+- **v0.1.6** (Latest) - 2025-08-07
 - See [all releases](https://github.com/anyplatform/platform.console/releases)
